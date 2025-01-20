@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Afsana17/Afsana17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Afsana17/Afsana17/output/snake.yml" alt="Snake animation" />
 
 ###
 
